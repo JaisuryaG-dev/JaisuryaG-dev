@@ -19,7 +19,7 @@
   <img src="https://img.icons8.com/?size=70&id=PXTY4q2Sq2lG&format=png&color=000000">
   <img src="https://img.icons8.com/?size=70&id=123603&format=png&color=000000">
   <img src="https://img.icons8.com/?size=70&id=b9csPDvC8JBF&format=png&color=000000">
-  <img src="https://img.icons8.com/nolan/64/php--v2.png" alt="php--v2"/>
+ <img width="96" height="96" src="https://img.icons8.com/nolan/96/php--v2.png" alt="php--v2"/>
 
   ### Tools I work with
   <img src="https://img.icons8.com/?size=70&id=0OQR1FYCuA9f&format=png&color=000000">
