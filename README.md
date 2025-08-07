@@ -28,3 +28,7 @@
   <img src="https://img.icons8.com/?size=70&id=g7P0iny5Rros&format=png&color=000000">
   <img src="https://img.icons8.com/?size=70&id=3sGOUDo9nJ4k&format=png&color=000000">
   <img width="70" height="70" src="https://img.icons8.com/color/48/android-os.png" alt="android-os"/>
+  <img width="70" height="70" src="https://img.icons8.com/fluency/50/microsoft-excel-2019.png" alt="microsoft-excel-2019"/>
+  <img width="70" height="70" src="https://img.icons8.com/fluency/50/microsoft-powerpoint-2019.png" alt="microsoft-powerpoint-2019"/>
+  <img width="70" height="70" src="https://img.icons8.com/fluency/50/microsoft-word-2019.png" alt="microsoft-word-2019"/>
+  <img width="70" height="70" src="https://img.icons8.com/fluency/50/canva.png" alt="canva"/>
