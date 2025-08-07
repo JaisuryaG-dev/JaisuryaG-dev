@@ -27,4 +27,4 @@
   <img src="https://img.icons8.com/?size=70&id=zfHRZ6i1Wg0U&format=png&color=000000">
   <img src="https://img.icons8.com/?size=70&id=g7P0iny5Rros&format=png&color=000000">
   <img src="https://img.icons8.com/?size=70&id=3sGOUDo9nJ4k&format=png&color=000000">
-  <a href="https://www.flaticon.com/free-icons/xampp" title="xampp icons">Xampp icons created by sandiatresna - Flaticon</a>
+  <img width="70" height="70" src="https://img.icons8.com/color/48/android-os.png" alt="android-os"/>
